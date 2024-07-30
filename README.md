@@ -7,4 +7,4 @@
 - CTkMessagebox
 
 ## Screenshot:
-<img src="https://cdn.discordapp.com/attachments/1204832570660094034/1267778006550581330/image.png" width="128"/>
+![Game screenshot](https://github.com/KiTant/GuessTheNumberGameUI/blob/main/ScreenshotOfGame.PNG)
